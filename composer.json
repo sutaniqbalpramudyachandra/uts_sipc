@@ -1,0 +1,5 @@
+{
+    "require": {
+        "laravelista/comments": "^3.6"
+    }
+}
